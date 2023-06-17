@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d3cc874a-b8c1-4c6e-b289-ceb318c43454": {
+      "ProjectGuid": "d3cc874a-b8c1-4c6e-b289-ceb318c43454",
+      "DisplayName": "Polygon_Durasov_Integra",
+      "ColorIndex": 0
+    },
+    "86895cc1-ecfc-4ecb-853f-0a2362f3af52": {
+      "ProjectGuid": "86895cc1-ecfc-4ecb-853f-0a2362f3af52",
+      "DisplayName": "test",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
